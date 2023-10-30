@@ -1,0 +1,15 @@
+/* Styles.css */
+
+/* Style général du conteneur pour centrer le contenu et ajouter de l'espace */
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 40px;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+}
+
+.confidence-score {
+    font-weight: bold;
+    color: #6093AC;
+}
